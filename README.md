@@ -5,3 +5,5 @@ The puzzle is generated using a script in the **dmackinnon1/sudoku** repo. The s
 that uses the *sudoku* LaTeX package for formatting.
 
 The **dailySudoku** repository is synchronized with an Overleaf project of the same name. The generated .tex document can be given further formatting in Overleaf.
+
+See https://dmackinnon1.github.io/sudoku/ for interactive sudoku puzzles.
